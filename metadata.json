@@ -1,0 +1,6 @@
+{
+  "name": "e-APPS Sistem Asrama SSeMJ",
+  "description": "Sistem Asrama Putra dan Putri Sekolah Seni Malaysia Johor: Pengurusan Kad Pintar NFC, Imbasan Kehadiran, Pemantauan Outing, Pelepasan & Pulang Pukal (EnumList) serta Log Warden.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
